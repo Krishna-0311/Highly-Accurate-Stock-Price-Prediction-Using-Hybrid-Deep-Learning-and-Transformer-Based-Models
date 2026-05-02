@@ -1,5 +1,5 @@
 """
-💬 Sentiment Analysis Page — FinBERT
+💬 Sentiment Analysis Page — FinBERT !
 """
 import streamlit as st
 import pandas as pd
