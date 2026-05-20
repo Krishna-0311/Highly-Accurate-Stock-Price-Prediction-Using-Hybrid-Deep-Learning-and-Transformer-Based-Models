@@ -1,5 +1,5 @@
 """
-📈 Model Evaluation Page -- MAE, RMSE, MAPE, residual analysis
+📈 Model-Evaluation Page -- MAE, RMSE, MAPE, residual analysis
 """
 import streamlit as st
 import pandas as pd
